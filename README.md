@@ -13,3 +13,4 @@ Finally complete tuning and model creation was performed for the following model
 5. Support Vector Machine (SVC)
 
 Along with complete classification performance report and visualisations for which parameters were relatively more important for the same.
+COMPLETE CASE STUDY IS AVAILABLE AS A PYTHON NOTEBOOK (task.ipynb)
