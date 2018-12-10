@@ -8,7 +8,7 @@ The data was thoroughly explored and imputed where needed. Unnecessary features 
 Finally complete tuning and model creation was performed for the following model types:
 1. Naive Bayes
 2. Logistic Regression
-3. Gradient Boosting Model
+3. Gradient Boosting Classifier
 4. Random Forest Classifier
 5. Support Vector Machine (SVC)
 
